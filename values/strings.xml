@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">InventoryApp2</string>
+    <string name="empty_text_view">Get started by adding a product</string>
+    <string name="product_editor">Product Editor</string>
+    <string name="product_name">Product Name</string>
+    <string name="product_price">product price</string>
+    <string name="product_quantity">Product Quantity</string>
+    <string name="product_supplier_name">Product Supplier Name</string>
+    <string name="product_supplier_phone_number">Product Supplier Phone Number</string>
+    <string name="product_price_currency">S.R</string>
+
+    <string name="supplier_ikea">IKEA</string>
+    <string name="supplier_amazon">Amazon</string>
+    <string name="supplier_shein">SHEIN</string>
+    <string name="supplier_jarirr">Jarirr</string>
+    <string name="supplier_unknown">Unknown</string>
+    <string name="save">Save</string>
+    <string name="delete">Delete</string>
+    <string name="cancel">Cancel</string>
+    <string name="delete_all_inventory">Delete All Inventory</string>
+    <string name="deleted_all_products_message">rows deleted from product table</string>
+    <string name="add_product">Add New Product</string>
+    <string name="edit_product">Edit Product</string>
+    
+    <string name="product_name_requires">Product Name Requires</string>
+    <string name="price_requires">Product Price Requires</string>
+    <string name="quantity_requires">Product Quantity Requires</string>
+    <string name="supplier_name_requires">Supplier Name Requires Select anything Without UNKNOWN Selection</string>
+    <string name="supplier_phone_requires">Supplier Phone Requires</string>
+
+    <string name="insert_failed">Error With Saving Product</string>
+    <string name="insert_successful">Product updated Successfully</string>
+
+    <string name="unsaved_changes_dialog_msg">Discard your changes and quit editing?</string>
+    <string name="discard">Discard</string>
+    <string name="keep_editing">Keep Editing</string>
+    <string name="increase_button">+</string>
+    <string name="decreases">-</string>
+
+</resources>
